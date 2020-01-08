@@ -1,0 +1,43 @@
+
+
+.fh5co-bg-section {
+  background: #e8e8e8;
+
+}
+
+
+#fh5co-pricing {
+  padding: 7em 0;
+  clear: both;
+}
+@media screen and (max-width: 768px) {
+  #fh5co-pricing {
+    padding: 3em 0;
+  }
+}
+
+.wrap-price {
+  padding: 2em 4em;
+}
+
+.pricing__feature-list {
+  width: 100%;
+  float: left;
+}
+.pricing__feature-list li {
+  margin-bottom: 10px;
+}
+
+.pricing__item {
+  width: 100%;
+  float: left;
+  clear: both;
+}
+@media screen and (max-width: 768px) {
+  .pricing__item {
+    margin-bottom: 30px;
+  }
+}
+
+
+ 

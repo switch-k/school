@@ -1,0 +1,46 @@
+
+/*.box {
+  width: 600px;
+  height: 350px;
+  margin: 3em auto;
+  border: 1px solid #D0D0D0;
+  -webkit-box-shadow: 0 0 8px #D0D0D0;
+}*/
+
+
+
+/*ul.slides {
+  padding: 0;
+  margin: 1em auto;
+  list-style: none;
+}*/
+/*li.slide{
+  padding: 1em;
+  
+}*/
+
+li.slide p{
+  font-size: 14px;
+  text-transform: uppercase;
+  color: #fff;
+  font-weight: 100;
+  width: 80%;
+  text-align: center;
+  
+  
+
+}
+@media screen and (max-width: 992px) {
+ .author-avatar{
+  align-content: center;
+ }
+  }
+
+/*.flex-container{
+  
+
+  flex-direction: row;
+  flex-wrap: wrap;
+
+
+}*/

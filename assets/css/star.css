@@ -1,0 +1,39 @@
+p{
+	text-align: justify;
+	text-indent: 12px; 
+
+}
+/*.bg-image{
+	   background-color: 8px solid gray;
+}*/
+
+
+
+.info1 p{
+	/*background-color:#eee;*/
+	   text-align: justify;
+	   word-spacing: 1px;
+	   text-decoration: none;
+}
+
+h5{
+	font-weight: bold;
+	color: #fff;
+
+}
+.copyright {
+	padding-top: 120px;
+}
+.footer-social{
+	  padding-top: 100px;
+}
+.p-text {
+	word-spacing: 0.3px;
+	text-align: justify;
+	line-height: 18px;
+}
+.site-footer h5{
+            font: bold;
+            font-size: 18px;
+
+}
